@@ -13,7 +13,6 @@ group by month
 order by month;
 
 
-
 -- Query 02: Bounce rate per traffic source in July 2017
 #standardSQL
 select 
